@@ -1,0 +1,39 @@
+Driving (Dex)
+Handiness (Int)
+Hypnosis
+Memory Alteration
+Mind Control
+Mind Reading
+Possession
+Psychic Sensing (Wis)
+Purge
+Pyrokinesis
+Rend
+Technical Knowledge (Int)
+Technokinesis
+Telekinesis
+Telepathy
+Teleportation
+
+Check Lines: 
+
+142
+213
+484
+1234
+6560
+6779
+7870
+7904
+8280
+8572
+9440
+10491
+12339
+12756
+12795
+13005
+13009
+13011
+13030
+13035
